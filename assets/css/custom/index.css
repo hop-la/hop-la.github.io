@@ -3,17 +3,17 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/big/universe1.jpg);
+    background-image: url(/assets/images/lights.jpg);
     padding: 6% 0 0 0;
   }
 
   #section1{
-    background-image: url(/assets/img/big/universe2.jpg);
+    background-image: url(/assets/images/sushi.jpg);
     padding: 6% 0 0 0;
   }
 
   #section2{
-    background-image: url(/assets/img/big/universe3.jpg);
+    background-image: url(/assets/images/people.jpg);
     padding: 6% 0 0 0;
   }
   #section3{
